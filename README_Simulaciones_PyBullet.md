@@ -174,16 +174,6 @@ docker run -it --rm     -e DISPLAY=$DISPLAY     -v /tmp/.X11-unix:/tmp/.X11-unix
 
 ------------------------------------------------------------------------
 
-## 🧠 Conclusiones
-
--   Docker permite ejecutar entornos de simulación complejos sin
-    conflictos de dependencias.\
--   PyBullet es una herramienta poderosa para la simulación física de
-    robots y drones.\
--   Las opciones `--gui True` y `-v /tmp/.X11-unix:/tmp/.X11-unix` son
-    necesarias para habilitar el entorno gráfico.
-
-------------------------------------------------------------------------
 
 ## 👨‍💻 Autor
 
